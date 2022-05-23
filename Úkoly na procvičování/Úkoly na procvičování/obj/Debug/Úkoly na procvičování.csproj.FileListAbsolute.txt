@@ -10,3 +10,16 @@ E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Deb
 E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.pdb
 E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Form1.resources
 E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Form2.resources
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\bin\Debug\Úkoly na procvičování.exe.config
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\bin\Debug\Úkoly na procvičování.exe
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\bin\Debug\Úkoly na procvičování.pdb
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.csproj.AssemblyReference.cache
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Form1.resources
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Form2.resources
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Form3.resources
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Menu.resources
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Properties.Resources.resources
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.csproj.GenerateResource.cache
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.csproj.CoreCompileInputs.cache
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.exe
+C:\Users\Nadupaná mašina\Source\Repos\Procvicovani-C-\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.pdb
