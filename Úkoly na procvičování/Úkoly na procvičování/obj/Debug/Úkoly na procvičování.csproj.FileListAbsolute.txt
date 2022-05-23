@@ -1,0 +1,12 @@
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\bin\Debug\Úkoly na procvičování.exe.config
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\bin\Debug\Úkoly na procvičování.exe
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\bin\Debug\Úkoly na procvičování.pdb
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.csproj.AssemblyReference.cache
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Menu.resources
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Properties.Resources.resources
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.csproj.GenerateResource.cache
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.csproj.CoreCompileInputs.cache
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.exe
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly na procvičování.pdb
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Form1.resources
+E:\Programování\C#\Úkoly na procvičování\Úkoly na procvičování\obj\Debug\Úkoly_na_procvičování.Form2.resources
